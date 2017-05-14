@@ -16,9 +16,11 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 
-from udecision.views import sayHello
+from udecision.views import sayHello, onCourse, onAbout
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^student/', sayHello)
+    url(r'^student/', sayHello),
+    url(r'^course/', onCourse),
+    url(r'^about/', onAbout),
 ]

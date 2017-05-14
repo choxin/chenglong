@@ -1,9 +1,134 @@
 {% extends "base.html" %}
 
-{% block title %} The current time{% endblock %}
+{% block title %} 首页{% endblock %}
 
-{% block content %}<p>It is now {{ current_date }}.</p>
+{% block content %}
+    <div class="slide-main" id="touchMain">
+        <div class="slide-box" id="slideContent">
+            <div class="slide banAnimate" id="bgstylec" style="display: block; opacity: 1; z-index: 8;"><img
+                    title="3-5岁幼儿英语培训" alt="幼儿英语培训" src="/static/images/index/p_roll1.jpg"></div>
+            <div class="slide" id="bgstylea" style="opacity: 0.5; z-index: 0; display: none;"><img title="6-12岁儿童英语培训"
+                                                                                                   alt="儿童英语培训"
+                                                                                                   src="/static/images/index/p_roll2.jpg">
+            </div>
+            <div class="slide" id="bgstyleb" style="opacity: 0.5; z-index: 0; display: none;"><img title="13-18岁少儿英语培训"
+                                                                                                   alt="少儿英语培训"
+                                                                                                   src="/static/images/index/p_roll3.jpg">
+            </div>
+            <!--<div class="slide" id="bgstyled"><img title="13-18岁少儿英语培训" alt="少儿英语培训" src="/images/index/pic_roll4.jpg" /></div>-->
+        </div>
+        <div class="item">
+            <a class="cur" stat="item1001" href="javascript:;"></a><a href="javascript:;" stat="item1002"
+                                                                      class=""></a><a href="javascript:;"
+                                                                                      stat="item1003" class=""></a>
+            <!--<a href="javascript:;" stat="item1004"></a>-->
+        </div>
+    </div>
 
-<script type="text/javascript" src="/static/js/js.js"></script>
+
+    <!--中间一部分-->
+    <div class="home_active">
+        <script type="text/javascript" src="/plus/getArea/getInfo.php?param=hot_huodong"></script>
+        <div class="box-a1"><p class="pic"><a target="_blank"
+                                              href="/plus/view.php?aid=1118&amp;a=cityview&amp;city=105"><img
+                src="/static/images/upload/24-150602193301P6.jpg"></a></p>
+            <p class="intro"><a target="_blank" href="/plus/view.php?aid=1118&amp;a=cityview&amp;city=105">幼儿英语、儿童英语、少儿英语预约体验</a>
+            </p></div>
+        <div class="box-a1"><p class="pic"><a target="_blank"
+                                              href="/activity/2014/0420/1035.html?a=cityview&amp;city=105"><img
+                src="/static/images/upload/3-1506021934312K.jpg"></a></p>
+            <p class="intro"><a target="_blank" href="/activity/2014/0420/1035.html?a=cityview&amp;city=105">少儿英语评测</a>
+            </p></div>
+        <div class="box-a1"><p class="pic"><a target="_blank"
+                                              href="/plus/view.php?aid=1309&amp;a=cityview&amp;city=105"><img
+                src="/static/images/upload/3-16040Q62313B0.jpg"></a></p>
+            <p class="intro"><a target="_blank" href="/plus/view.php?aid=1309&amp;a=cityview&amp;city=105">【亲子月】玩美式英语游戏，送妈妈DIY礼物</a>
+            </p></div>
+    </div>
+
+    <!--中间一部分-->
+    <div class="home_part1 w1100 mt30">
+        <h3 class="home_t3 fsize24 txt_center">
+            为 3-18岁 孩子提供纯正美式英语教育</h3>
+        <p class="home_par txt_center">
+            瑞思学科英语，将美国原版课程引进中国，旨在为3-18岁的幼儿、青少年提供纯正美式英语教育。<br>
+            在全浸入式英语环境中，激发孩子的英语学习兴趣，英语如母语般运用自如。<br>
+            掌握语言背后的逻辑、文化、思维方式，培养孩子解决实际问题、团队合作、演讲演示的能力及创造力。<br>
+            目前，瑞思在全国近80座城市开设200余家校区，每年数万学员在此接受美式英语教育。</p>
+        <p class="home_pic txt_center">
+            <img alt="瑞思在全国近80座城市开设200余家校区" src="/static/images/index/rise_index_11.jpg"></p>
+        <h3 class="home_t3 fsize24 txt_center">
+            美国孩子正在使用的原版课程</h3>
+        <p class="home_par txt_center">
+            瑞思学科英语使用美国教育集团——霍顿·米夫林·哈考特教育集团历时多年斥巨资打造的课程及教材。<br>
+            瑞思课程完整、连续，充分遵循孩子的认知规律，知识点及学习方法由浅入深。<br>
+            整体学习过程中，英语语言、学科知识、英语思维、应用能力如螺旋般提升。</p>
+        <p class="home_pic txt_center">
+            <img alt="针对3-18岁美式幼儿园、美式小学、美式中学10级螺旋式上升课程体系" src="/static/images/index/rise_index_12.jpg"></p>
+        <div class="home_step w1100">
+            <!--美国幼儿园-->
+            <div class="home_s step_k">
+                <div class="step_info">
+                    <a href="/course/#suba" target="_blank" title="3-5岁美式幼儿园英语课程"><em><img alt="幼儿英语课程，培养英语兴趣，口语自信表达"
+                                                                                           src="/static/images/index/rise_k.png"></em>
+                    </a>
+                    <div class="step_title">
+                        <h4 class="fsize16">
+                            3-5岁 美式幼儿园课程</h4>
+                        <p>
+                            <span>培养英语兴趣，口语自信表达。</span></p>
+                    </div>
+
+                </div>
+                <div class="step_mess pt10">
+                    3-5岁幼儿英语，学员在浸入式的英语环境中，通过主题游戏、区角教学等方式学习英语，培养英语兴趣，并养成正确学习的习惯。着重培养孩子的英语应用能力和创造力，英语如同母语，自然掌握。
+                </div>
+                <div class="step_more mt14">
+                    <a href="/course/#suba" target="_blank"><span>了解更多</span></a></div>
+            </div>
+            <!--美国小学-->
+            <div class="home_s step_o">
+                <div class="step_info">
+                    <a href="/course/dlxx/#suba" target="_blank" title="少儿英语课程,美式小学,英语思维"><em><img
+                            alt="少儿英语课程，学习学科知识，运用英语思维" src="/static/images/index/rise_o.png"></em>
+                        <div class="step_title">
+                            <h4 class="fsize16">
+                                6-12岁 美式小学课程</h4>
+                            <p>
+                                <span>学习学科知识，运用英语思维。</span></p>
+                        </div>
+                    </a>
+                </div>
+                <div class="step_mess pt10">
+                    6-12岁少儿英语，增加了学科知识的学习，孩子的英语掌握范围从生活英语深入到学科英语(语文、数学、科学)，开始运用英语思维解决实际问题，最终培养孩子在解决问题的同时自主学习的能力。
+                </div>
+                <div class="step_more mt14">
+                    <a href="/course/dlxx/#suba" target="_blank"><span>了解更多</span></a></div>
+            </div>
+            <!--美国中学-->
+            <div class="home_s step_u">
+                <div class="step_info">
+                    <a href="/course/zzxx/#suba" target="_blank" title="青少年英语课程,13-18岁美式中学课程,美国教育模式"><em><img
+                            alt="青少年英语课程，信步世界名校" src="/static/images/index/rise_u.png"></em>
+                        <div class="step_title">
+                            <h4 class="fsize16">
+                                13-18岁 美式中学课程</h4>
+                            <p>
+                                <span>地道英语思考，步入世界舞台。</span></p>
+                        </div>
+                    </a>
+                </div>
+                <div class="step_mess pt10">
+                    13-18岁青少儿英语，通过Rise up的学习，瑞思学员英语水平可以顺利衔接美国中学，并且能提前熟悉和适应美国教育的学习模式，培养地道美式英语思维，解决中国学生留学后"水土不服"等问题。
+                </div>
+                <div class="step_more mt14">
+                    <a href="/course/zzxx/#suba" target="_blank"><span>了解更多</span></a></div>
+            </div>
+        </div>
+        <div class="clearfix home_get_class">
+            <a href="#top">预约试听课&nbsp;&nbsp;&gt;</a></div>
+    </div>
+
+    <script type="text/javascript" src="/static/js/js.js"></script>
     <script type="text/javascript" src="/static/js/school_form.js"></script>
 {% endblock %}
