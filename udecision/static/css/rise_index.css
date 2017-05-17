@@ -353,3 +353,7 @@ h3.home_reg_title{ background:url(../images/home_tt_bg.png) no-repeat bottom; co
 .links p a:hover{ color:#222;}
 /*站长统计*/
 .cnzz a{ position:fixed; left:200%; bottom:0}
+
+.position_qq .class_qidian_wpa {
+    left: 0 !important;
+}
