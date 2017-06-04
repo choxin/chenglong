@@ -21,90 +21,158 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="course.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/course.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="187" column="22" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main_looyu.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udecision/static/images/main_looyu.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rise_english.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udecision/static/images/rise_english.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rise_index_bottom.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udecision/static/images/rise_index_bottom.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rise_index_nav.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udecision/static/images/rise_index_nav.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rise_logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udecision/static/images/rise_logo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udecision/static/css/about.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="51" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udecision/static/css/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2231">
-              <caret line="97" column="23" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="23" />
+            <state relative-caret-position="171">
+              <caret line="113" column="28" selection-start-line="92" selection-start-column="19" selection-end-line="113" selection-end-column="28" />
               <folding>
-                <marker date="1493036597470" expanded="true" signature="10798:10880" ph="{...}" />
+                <element signature="e#1618#1642#0#HTML" expanded="true" />
+                <marker date="1496582198570" expanded="false" signature="36449:36453" ph="&gt;" />
+                <marker date="1496582198570" expanded="false" signature="38213:38226" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="40550:40554" ph="&gt;" />
+                <marker date="1496582198570" expanded="false" signature="41778:41792" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="60859:60874" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="61088:61103" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="61166:61182" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="62280:62311" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="62456:62467" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="62560:62576" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="62677:62690" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="75892:75898" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="75898:75904" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="75904:75910" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="87061:87067" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="87067:87073" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="87073:87079" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="89204:89210" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="89210:89216" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="89216:89222" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="91736:91751" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="91869:91885" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="91994:92008" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="105339:105353" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="107606:107620" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="112185:112199" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="114723:114737" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="115402:115416" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="116920:116926" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="117579:117593" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="118248:118262" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="119008:119022" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="119687:119701" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="120360:120374" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="121409:121423" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="122462:122476" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="123139:123153" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="124188:124202" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="125837:125843" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="126870:126884" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="129036:129050" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="129728:129742" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="130778:130792" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="131450:131464" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="132520:132534" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="133198:133212" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="133887:133901" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="134567:134581" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="135246:135260" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="137441:137455" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="138114:138128" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="138805:138819" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="142565:142579" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="143623:143637" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="144314:144328" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="144987:145001" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="145463:145469" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="146906:146920" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="147586:147600" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="150955:150969" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="153264:153278" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="153942:153956" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="154630:154644" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="156077:156091" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="156758:156772" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="157441:157455" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="158868:158882" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="164463:164477" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="165141:165155" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="165827:165841" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="166513:166527" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="167195:167209" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="168272:168286" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="169414:169428" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="170102:170116" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="172288:172302" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="172960:172974" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="173637:173651" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="174786:174800" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="175462:175476" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="176146:176160" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="176829:176843" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="177513:177527" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="178192:178206" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="178586:178592" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="179251:179265" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="180316:180330" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="180990:181004" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="181768:181782" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="182444:182458" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="183133:183147" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="183808:183822" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="184493:184507" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="185181:185195" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="186627:186641" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="187307:187321" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="187983:187997" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="195586:195600" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="196641:196655" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="198075:198089" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="199156:199170" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="199833:199847" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="200872:200886" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="201558:201572" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="203821:203827" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="204110:204124" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="205169:205183" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="205846:205860" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="206522:206536" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="207194:207208" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="208331:208337" ph=" " />
+                <marker date="1496582198570" expanded="false" signature="208992:209006" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="212210:212214" ph="&gt;" />
+                <marker date="1496582198570" expanded="false" signature="213846:213859" ph="..." />
+                <marker date="1496582198570" expanded="false" signature="215947:215951" ph="&gt;" />
+                <marker date="1496582198570" expanded="false" signature="217099:217113" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rise_index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udecision/static/css/rise_index.css">
+      <file leaf-file-name="kecheng.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udecision/static/css/kecheng.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7820">
-              <caret line="340" column="66" selection-start-line="340" selection-start-column="66" selection-end-line="340" selection-end-column="66" />
+            <state relative-caret-position="270">
+              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kc_tab1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_tab1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -122,8 +190,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/templates/index.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/udecision/static/css/rise_index.css" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/index.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,13 +199,15 @@
         <option value="$PROJECT_DIR$/udecision/static/css/skin.css" />
         <option value="$PROJECT_DIR$/templates/nav.html" />
         <option value="$PROJECT_DIR$/udecision/static/css/layout.css" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/templates/course.html" />
         <option value="$PROJECT_DIR$/udecision/views.py" />
         <option value="$PROJECT_DIR$/chenglong/urls.py" />
-        <option value="$PROJECT_DIR$/templates/about.html" />
         <option value="$PROJECT_DIR$/udecision/static/css/rise_index.css" />
+        <option value="$PROJECT_DIR$/chenglong/settings.py" />
+        <option value="$PROJECT_DIR$/udecision/static/js/qq.js" />
         <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/course.html" />
       </list>
     </option>
   </component>
@@ -184,6 +254,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -277,6 +348,110 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenglong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenglong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udecision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kecheng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenglong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenglong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udecision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenglong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenglong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udecision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenglong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenglong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udecision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -327,7 +502,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -623,31 +797,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="0" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16134362" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17290749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.50440526" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659575" sideWeight="0.4955947" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.4955947" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32659575" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -666,292 +840,56 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/rise_index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4462">
-          <caret line="194" column="45" selection-start-line="194" selection-start-column="45" selection-end-line="194" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1357">
-          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2783">
-          <caret line="121" column="21" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#643#675#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/skin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20447">
-          <caret line="889" column="17" selection-start-line="889" selection-start-column="17" selection-end-line="889" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1219">
-          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/rise_index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4462">
-          <caret line="194" column="45" selection-start-line="194" selection-start-column="45" selection-end-line="194" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2783">
-          <caret line="121" column="21" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#643#675#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/skin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20447">
-          <caret line="889" column="17" selection-start-line="889" selection-start-column="17" selection-end-line="889" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1219">
-          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/rise_index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2783">
-          <caret line="121" column="21" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#643#675#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/skin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20447">
-          <caret line="889" column="17" selection-start-line="889" selection-start-column="17" selection-end-line="889" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2783">
-          <caret line="121" column="21" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#643#675#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2783">
-          <caret line="121" column="21" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/skin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20447">
-          <caret line="889" column="17" selection-start-line="889" selection-start-column="17" selection-end-line="889" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/images/close_looyu.png">
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/upload/3-16040Q62313B0.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="32" selection-end-column="6" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/upload/3-1506021934312K.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/upload/24-150602193301P6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/file_ico.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/footer_wx.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/ico_bottom_ip.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/ico_bottom_ad.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/tricon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/sidenav.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/udecision/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -959,72 +897,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1357">
-          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/index/rise_index_11.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chenglong/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="e#643#675#0" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/index/rise_o.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="42" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/index/rise_u.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/index/p_roll1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="51" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2231">
-          <caret line="97" column="23" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="23" />
-          <folding>
-            <marker date="1493036597470" expanded="true" signature="10798:10880" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/images/main_looyu.png">
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/index/rise_index_12.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1034,14 +931,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/images/rise_index_bottom.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/images/rise_index_nav.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/udecision/static/js/qq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-777">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/udecision/static/images/rise_logo.png">
@@ -1049,19 +944,419 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udecision/static/css/rise_index.css">
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/logo_footer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7820">
-          <caret line="340" column="66" selection-start-line="340" selection-start-column="66" selection-end-line="340" selection-end-column="66" />
-          <folding />
+        <state relative-caret-position="341">
+          <caret line="30" column="84" selection-start-line="30" selection-start-column="84" selection-end-line="30" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="187" column="22" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="22" />
+        <state relative-caret-position="36">
+          <caret line="94" column="27" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1496579545731" expanded="false" signature="1218:1238" ph="..." />
+            <marker date="1496579545731" expanded="false" signature="1240:1246" ph=" " />
+            <marker date="1496579545731" expanded="false" signature="1357:1363" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="2065" column="0" selection-start-line="2065" selection-start-column="2" selection-end-line="2069" selection-end-column="20" />
+          <folding>
+            <marker date="1496579878513" expanded="false" signature="16240:16255" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="16469:16484" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="16547:16563" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="17661:17692" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="17837:17848" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="17941:17957" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="18058:18071" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="31273:31279" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="31279:31285" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="31285:31291" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="42442:42448" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="42448:42454" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="42454:42460" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="44585:44591" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="44591:44597" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="44597:44603" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="47117:47132" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="47250:47266" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="47375:47389" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="60720:60734" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="62987:63001" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="67566:67580" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="70104:70118" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="70783:70797" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="72301:72307" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="72960:72974" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="73629:73643" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="74389:74403" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="75068:75082" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="75741:75755" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="76790:76804" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="77843:77857" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="78520:78534" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="79569:79583" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="81217:81223" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="82250:82264" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="84416:84430" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="85108:85122" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="86158:86172" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="86830:86844" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="87900:87914" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="88578:88592" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="89267:89281" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="89947:89961" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="90626:90640" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="92821:92835" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="93494:93508" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="94185:94199" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="97945:97959" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="99003:99017" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="99694:99708" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="100367:100381" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="100843:100849" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="102286:102300" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="102966:102980" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="106335:106349" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="108644:108658" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="109322:109336" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="110010:110024" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="111457:111471" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="112138:112152" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="112821:112835" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="114248:114262" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="119843:119857" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="120521:120535" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="121207:121221" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="121893:121907" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="122575:122589" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="123652:123666" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="124794:124808" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="125482:125496" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="127668:127682" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="128340:128354" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="129017:129031" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="130166:130180" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="130839:130853" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="131523:131537" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="132206:132220" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="132890:132904" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="133569:133583" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="133963:133969" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="134628:134642" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="135692:135706" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="136366:136380" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="137144:137158" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="137820:137834" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="138509:138523" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="139184:139198" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="139869:139883" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="140557:140571" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="142003:142017" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="142683:142697" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="143359:143373" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="150962:150976" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="152017:152031" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="153451:153465" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="154532:154546" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="155209:155223" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="156248:156262" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="156934:156948" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="159197:159203" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="159486:159500" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="160545:160559" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="161222:161236" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="161898:161912" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="162570:162584" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="163707:163713" ph=" " />
+            <marker date="1496579878513" expanded="false" signature="164368:164382" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="167433:167437" ph="&gt;" />
+            <marker date="1496579878513" expanded="false" signature="168659:168672" ph="..." />
+            <marker date="1496579878513" expanded="false" signature="170814:170818" ph="&gt;" />
+            <marker date="1496579878513" expanded="false" signature="171926:171940" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/ico_blue.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kecheng-pic2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kecheng-pic1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_tab2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_29.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/ico_green.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_ico_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_ico_4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_ico_6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_18.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_19.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_17.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/index/rise_k.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_16.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_ico_5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_ico_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_ico_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_28.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_pic_20.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/images/kecheng/kc_tab1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udecision/static/css/kecheng.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="113" column="28" selection-start-line="92" selection-start-column="19" selection-end-line="113" selection-end-column="28" />
+          <folding>
+            <element signature="e#1618#1642#0#HTML" expanded="true" />
+            <marker date="1496582198570" expanded="false" signature="36449:36453" ph="&gt;" />
+            <marker date="1496582198570" expanded="false" signature="38213:38226" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="40550:40554" ph="&gt;" />
+            <marker date="1496582198570" expanded="false" signature="41778:41792" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="60859:60874" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="61088:61103" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="61166:61182" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="62280:62311" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="62456:62467" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="62560:62576" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="62677:62690" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="75892:75898" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="75898:75904" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="75904:75910" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="87061:87067" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="87067:87073" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="87073:87079" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="89204:89210" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="89210:89216" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="89216:89222" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="91736:91751" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="91869:91885" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="91994:92008" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="105339:105353" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="107606:107620" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="112185:112199" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="114723:114737" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="115402:115416" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="116920:116926" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="117579:117593" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="118248:118262" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="119008:119022" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="119687:119701" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="120360:120374" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="121409:121423" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="122462:122476" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="123139:123153" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="124188:124202" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="125837:125843" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="126870:126884" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="129036:129050" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="129728:129742" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="130778:130792" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="131450:131464" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="132520:132534" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="133198:133212" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="133887:133901" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="134567:134581" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="135246:135260" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="137441:137455" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="138114:138128" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="138805:138819" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="142565:142579" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="143623:143637" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="144314:144328" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="144987:145001" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="145463:145469" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="146906:146920" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="147586:147600" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="150955:150969" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="153264:153278" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="153942:153956" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="154630:154644" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="156077:156091" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="156758:156772" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="157441:157455" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="158868:158882" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="164463:164477" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="165141:165155" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="165827:165841" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="166513:166527" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="167195:167209" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="168272:168286" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="169414:169428" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="170102:170116" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="172288:172302" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="172960:172974" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="173637:173651" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="174786:174800" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="175462:175476" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="176146:176160" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="176829:176843" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="177513:177527" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="178192:178206" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="178586:178592" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="179251:179265" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="180316:180330" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="180990:181004" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="181768:181782" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="182444:182458" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="183133:183147" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="183808:183822" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="184493:184507" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="185181:185195" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="186627:186641" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="187307:187321" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="187983:187997" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="195586:195600" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="196641:196655" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="198075:198089" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="199156:199170" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="199833:199847" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="200872:200886" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="201558:201572" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="203821:203827" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="204110:204124" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="205169:205183" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="205846:205860" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="206522:206536" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="207194:207208" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="208331:208337" ph=" " />
+            <marker date="1496582198570" expanded="false" signature="208992:209006" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="212210:212214" ph="&gt;" />
+            <marker date="1496582198570" expanded="false" signature="213846:213859" ph="..." />
+            <marker date="1496582198570" expanded="false" signature="215947:215951" ph="&gt;" />
+            <marker date="1496582198570" expanded="false" signature="217099:217113" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
